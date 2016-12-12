@@ -47,8 +47,12 @@ namespace Game1
             quad2 = new Quad(new Vector3(0.5f, 0, 1), Vector3.Backward, Vector3.Up, 1, 1);
             Projection = Matrix.CreatePerspectiveFieldOfView(
                 MathHelper.PiOver4, GraphicsDevice.Viewport.AspectRatio, 1, 500);
-            //Projection = Matrix.CreateOrthographic(5, 5, 1, 500);
+            //Projection = Matrix.CreateOrthographic(10, 10, 1, 500);
             base.Initialize();
+
+
+            ModelClass newone = new ModelClass();
+            newone.WriteToJson();
         }
 
         /// <summary>
