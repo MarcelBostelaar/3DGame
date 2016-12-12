@@ -1,0 +1,6 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Game1/Game1/bin/Windows/x86
+/Game1/Game1/obj/x86
