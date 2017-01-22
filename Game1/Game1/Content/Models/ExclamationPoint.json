@@ -1,0 +1,139 @@
+{
+  "name": "ExclamationPoint",
+  "Vertices": [
+    {//0
+      "Position": "-2, 14, -2",
+      "TextureCoordinate": "0, 0"
+    },
+    {//1
+      "Position": "2, 14, -2",
+      "TextureCoordinate": "0.25, 0"
+    },
+    {//2
+      "Position": "-1.5, 6, -1.5",
+      "TextureCoordinate": "0, 0.6"
+    },
+    {//3
+      "Position": "1.5, 6, -1.5",
+      "TextureCoordinate": "0.25, 0.6"
+    },
+	
+	
+    {//4
+      "Position": "2, 14, 2",
+      "TextureCoordinate": "0.5, 0"
+    },
+    {//5
+      "Position": "1.5, 6, 1.5",
+      "TextureCoordinate": "0.5, 0.6"
+    },
+	
+	
+    {//6
+      "Position": "-2, 14, 2",
+      "TextureCoordinate": "0.75, 0"
+    },
+    {//7
+      "Position": "-1.5, 6, 1.5",
+      "TextureCoordinate": "0.75, 0.6"
+    },
+	
+	
+    { //8
+      "Position": "-2, 14, -2",
+      "TextureCoordinate": "1, 0"
+    },
+    { //9
+      "Position": "-1.5, 6, -1.5",
+      "TextureCoordinate": "1, 0.6"
+    },
+	
+	
+	//bottom half
+    {//10
+      "Position": "-1.5, 4, -1.5",
+      "TextureCoordinate": "0, 0.4"
+    },
+    {//11
+      "Position": "1.5, 4, -1.5",
+      "TextureCoordinate": "0.25, 0.4"
+    },
+    {//12
+      "Position": "-1.5, 0, -1.5",
+      "TextureCoordinate": "0, 1"
+    },
+    {//13
+      "Position": "1.5, 0, -1.5",
+      "TextureCoordinate": "0.25, 1"
+    },
+	
+	
+    {//14
+      "Position": "1.5, 4, 1.5",
+      "TextureCoordinate": "0.5, 0.4"
+    },
+    {//15
+      "Position": "1.5, 0, 1.5",
+      "TextureCoordinate": "0.5, 1"
+    },
+	
+	
+    {//16
+      "Position": "-1.5, 4, 1.5",
+      "TextureCoordinate": "0.75, 0.4"
+    },
+    {//17
+      "Position": "-1.5, 0, 1.5",
+      "TextureCoordinate": "0.75, 1"
+    },
+	
+	
+    { //18
+      "Position": "-1.5, 4, -1.5",
+      "TextureCoordinate": "1, 0.4"
+    },
+    { //19
+      "Position": "-1.5, 0, -1.5",
+      "TextureCoordinate": "1, 1"
+    }
+  ],
+  "Indices": [	
+	2,1,0,
+	2,3,1,
+	
+	3,4,1,
+	3,5,4,
+	
+	7,6,4,
+	5,7,4,
+	
+	9,8,6,
+	7,9,6,
+	
+	1,4,0,
+	4,6,0,
+	
+	3,2,5,
+	7,5,2,
+	
+	
+	//bottom half
+	12,11,10,
+	12,13,11,
+	
+	13,14,11,
+	13,15,14,
+	
+	17,16,14,
+	15,17,14,
+	
+	19,18,16,
+	17,19,16,
+	
+	11,14,10,
+	14,16,10,
+	
+	13,12,15,
+	17,15,12
+  ]
+}

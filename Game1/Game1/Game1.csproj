@@ -38,9 +38,20 @@
     <ApplicationIcon>Icon.ico</ApplicationIcon>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="CameraSystems\ThirdPersonCamera.cs" />
+    <Compile Include="CameraSystems\Orthographic3rdPerson.cs" />
+    <Compile Include="CustomContentManager.cs" />
     <Compile Include="Game1.cs" />
-    <Compile Include="ModelClass.cs" />
+    <Compile Include="GenericWrapper.cs" />
+    <Compile Include="GlobalConstants.cs" />
+    <Compile Include="Input\InputInterface.cs" />
+    <Compile Include="Input\KeyboardMouseInput.cs" />
+    <Compile Include="Input\CustomMouseState.cs" />
+    <Compile Include="Input\KeyInput.cs" />
+    <Compile Include="ModelsAndAnimation\CakeLayerModel.cs" />
+    <Compile Include="ModelsAndAnimation\IDrawableWorldObject.cs" />
+    <Compile Include="ModelsAndAnimation\ModelClass.cs" />
+    <Compile Include="ModelsAndAnimation\PlaceHolderFiles.cs" />
+    <Compile Include="ModelsAndAnimation\StaticWorldObject.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="BetterQuad.cs" />
@@ -63,7 +74,7 @@
     <Content Include="Content\Checkerboard.png">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
-    <Content Include="Content\Placeholder.gif">
+    <Content Include="Content\DummyItemTexture.png">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
     <Content Include="Icon.ico" />
@@ -72,8 +83,27 @@
     <MonoGameContentReference Include="Content\Content.mgcb" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Content\Models\CUBE.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <None Include="Content\Models\DUMMY_DATA_FOR_MODEL.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="Content\Models\ExclamationPoint.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="Content\Models\SimplePlane.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="Content\Models\TestCakeLayer.CLM">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="Content\Models\TestWorldObject.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
     <None Include="packages.config" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Import Project="$(MSBuildExtensionsPath)\MonoGame\v3.0\MonoGame.Content.Builder.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

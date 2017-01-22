@@ -1,0 +1,39 @@
+{
+  "DefaultHeightDifference": 1.0,
+  "HorizontalTextures": 10,
+  "VerticalTextures": 10,
+  "Width": 1337,
+  "Height": 420,
+  "Layers": [
+    {
+      "TextureBlock": {
+        "X": 0,
+        "Y": 0
+      },
+      "CustomHeight": null
+    },
+    {
+      "TextureBlock": {
+        "X": 1,
+        "Y": 0
+      },
+      "CustomHeight": {
+        "Value": 0.5
+      }
+    },
+    {
+      "TextureBlock": {
+        "X": 2,
+        "Y": 0
+      },
+      "CustomHeight": null
+    },
+    {
+      "TextureBlock": {
+        "X": 0,
+        "Y": 1
+      },
+      "CustomHeight": null
+    }
+  ]
+}

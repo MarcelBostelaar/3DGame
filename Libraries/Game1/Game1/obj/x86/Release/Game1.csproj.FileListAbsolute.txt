@@ -1,0 +1,12 @@
+E:\Projects\3DGame\Libraries\Game1\Game1\bin\DesktopGL\x86\Release\Content\Scouting Logo.png
+E:\Projects\3DGame\Libraries\Game1\Game1\bin\DesktopGL\x86\Release\Content\Waardes.txt
+E:\Projects\3DGame\Libraries\Game1\Game1\bin\DesktopGL\x86\Release\Content\Wijzer.png
+E:\Projects\3DGame\Libraries\Game1\Game1\bin\DesktopGL\x86\Release\Content\TextFont.xnb
+E:\Projects\3DGame\Libraries\Game1\Game1\bin\DesktopGL\x86\Release\OpenTK.dll.config
+E:\Projects\3DGame\Libraries\Game1\Game1\bin\DesktopGL\x86\Release\Game1.exe
+E:\Projects\3DGame\Libraries\Game1\Game1\bin\DesktopGL\x86\Release\Game1.pdb
+E:\Projects\3DGame\Libraries\Game1\Game1\bin\DesktopGL\x86\Release\MonoGame.Framework.dll
+E:\Projects\3DGame\Libraries\Game1\Game1\bin\DesktopGL\x86\Release\NVorbis.dll
+E:\Projects\3DGame\Libraries\Game1\Game1\bin\DesktopGL\x86\Release\OpenTK.dll
+E:\Projects\3DGame\Libraries\Game1\Game1\obj\x86\Release\Game1.exe
+E:\Projects\3DGame\Libraries\Game1\Game1\obj\x86\Release\Game1.pdb

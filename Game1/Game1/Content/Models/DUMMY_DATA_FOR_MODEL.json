@@ -1,0 +1,37 @@
+{
+  "name": "DUMMY_DATA_FOR_MODEL",
+  "Vertices": [
+    {
+      "Position": "1, 2, 3",
+      "TextureCoordinate": "4, 5"
+    },
+    {
+      "Position": "1, 2, 3",
+      "TextureCoordinate": "4, 5"
+    },
+    {
+      "Position": "1, 2, 3",
+      "TextureCoordinate": "4, 5"
+    },
+    {
+      "Position": "1, 2, 3",
+      "TextureCoordinate": "4, 5"
+    },
+    {
+      "Position": "1, 2, 3",
+      "TextureCoordinate": "4, 5"
+    },
+    {
+      "Position": "1, 2, 3",
+      "TextureCoordinate": "4, 5"
+    }
+  ],
+  "Indices": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6
+  ]
+}

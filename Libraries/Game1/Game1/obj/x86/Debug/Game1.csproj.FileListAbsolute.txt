@@ -1,0 +1,13 @@
+E:\Projects\3DGame\Libraries\Game1\Game1\bin\DesktopGL\x86\Debug\OpenTK.dll.config
+E:\Projects\3DGame\Libraries\Game1\Game1\bin\DesktopGL\x86\Debug\Game1.exe
+E:\Projects\3DGame\Libraries\Game1\Game1\bin\DesktopGL\x86\Debug\Game1.pdb
+E:\Projects\3DGame\Libraries\Game1\Game1\bin\DesktopGL\x86\Debug\MonoGame.Framework.dll
+E:\Projects\3DGame\Libraries\Game1\Game1\bin\DesktopGL\x86\Debug\NVorbis.dll
+E:\Projects\3DGame\Libraries\Game1\Game1\bin\DesktopGL\x86\Debug\OpenTK.dll
+E:\Projects\3DGame\Libraries\Game1\Game1\obj\x86\Debug\Game1.csprojResolveAssemblyReference.cache
+E:\Projects\3DGame\Libraries\Game1\Game1\obj\x86\Debug\Game1.exe
+E:\Projects\3DGame\Libraries\Game1\Game1\obj\x86\Debug\Game1.pdb
+E:\Projects\3DGame\Libraries\Game1\Game1\bin\DesktopGL\x86\Debug\Content\TextFont.xnb
+E:\Projects\3DGame\Libraries\Game1\Game1\bin\DesktopGL\x86\Debug\Content\Waardes.txt
+E:\Projects\3DGame\Libraries\Game1\Game1\bin\DesktopGL\x86\Debug\Content\Scouting Logo.png
+E:\Projects\3DGame\Libraries\Game1\Game1\bin\DesktopGL\x86\Debug\Content\Wijzer.png

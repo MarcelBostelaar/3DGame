@@ -1,0 +1,79 @@
+{
+  "DefaultHeightDifference": 0.1,
+  "HorizontalTextures": 10,
+  "VerticalTextures": 10,
+  "Width": 1,
+  "Height": 1,
+  "Layers": [
+    {
+      "TextureBlock": {
+        "X": 0,
+        "Y": 0
+      },
+      "CustomHeight": null
+    },
+    {
+      "TextureBlock": {
+        "X": 1,
+        "Y": 0
+      },
+      "CustomHeight": null
+    },
+    {
+      "TextureBlock": {
+        "X": 2,
+        "Y": 0
+      },
+      "CustomHeight": null
+    },
+    {
+      "TextureBlock": {
+        "X": 3,
+        "Y": 0
+      },
+      "CustomHeight": null
+    },
+    {
+      "TextureBlock": {
+        "X": 4,
+        "Y": 0
+      },
+      "CustomHeight": null
+    },
+    {
+      "TextureBlock": {
+        "X": 5,
+        "Y": 0
+      },
+      "CustomHeight": null
+    },
+    {
+      "TextureBlock": {
+        "X": 6,
+        "Y": 0
+      },
+      "CustomHeight": null
+    },
+    {
+      "TextureBlock": {
+        "X": 7,
+        "Y": 0
+      },
+      "CustomHeight": null
+    },
+    {
+      "TextureBlock": {
+        "X": 8,
+        "Y": 0
+      },
+      "CustomHeight": null
+    },
+    {
+      "TextureBlock": {
+        "X": 9,
+        "Y": 0
+      },
+      "CustomHeight": null
+    }
+  ]
+}
